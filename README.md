@@ -26,18 +26,8 @@ Firstly, install all the needed modules, for that, you will need to install [pyt
 3. #### Configure Settings
    - Create a file with the name ```.env```.
    - Edit the ```.env``` to add your bot token.
-
-
-
-
-
-
-
-
-
-
-
-   ```bash
+     
+```bash
    DISCORD_TOKEN=your token
    ```
    
