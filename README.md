@@ -39,16 +39,16 @@ If you would like to use this bot, personally or commercially, please give me ([
 
 ## Commands
 
-1. ```add-money```
-2. ```remove-money```
-3. ```withdraw```
-4. ```deposit```
-5. ```money```
-6. ```pay```
-7. ```reset-money```
-8. ```role-income```
-9. ```set-income```
-10. ```collect```
+1. ```add-money```: Adds a specified amount of money to a user's balance.
+2. ```remove-money```: Removes a specified amount of money from a user's balance.
+3. ```withdraw```: Withdraws money from a user's balance.
+4. ```deposit```: Deposits money into a user's balance.
+5. ```money```: Displays the current balance of a user.
+6. ```pay```: Sends money from one user to another.
+7. ```reset-money```: Resets a user's money balance to zero.
+8. ```role-income```: Sets or adjusts the income for a specific user role.
+9. ```set-income```: Sets a specific amount of income for a user.
+10. ```collect```: Collects earned money.
 
 ## Built With
 
