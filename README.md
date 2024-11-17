@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-This is a project, where you get some basic functionalities for a Economical Discord Bot.
+This project contains multiple commands and events for a basic economy bot.
 
 ## Prerequisites
 
