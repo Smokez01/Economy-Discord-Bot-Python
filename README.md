@@ -1,5 +1,6 @@
 # Economy-Discord-Bot-Python
 ## Getting Started
+
 This is a project, where you get some basic functionalities for a Economical Discord Bot.
 
 ## Installation
@@ -29,6 +30,7 @@ Firstly, install all the needed modules, for that, you will need to install [pyt
 If you would like to use this bot, personally or commercially, please give me ([Smokez01](https://github.com/Smokez01)) credit.
 
 ## Built With
+
 [discord.py](https://discordpy.readthedocs.io/en/stable/) - The library used
 [Python](https://www.python.org/) - The Runtime
 
@@ -36,10 +38,13 @@ If you would like to use this bot, personally or commercially, please give me ([
 Any pull request's are welcome!
 
 ## Issues
+
 If you have any issue, please don't hesitate to make a [issue](https://github.com/Smokez01/Economy-Discord-Bot-Python/issues), I will gladly take a look at it and try to fix it!
 
 ## Authors
+
 Smokez01 - Initial work & all the project - [Smokez01](https://github.com/Smokez01)
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/Smokez01/Economy-Discord-Bot-Python/blob/main/LICENSE) file for details
