@@ -17,9 +17,9 @@ What things you need to install the software and how to install them:
 
 Firstly, install all the needed modules, for that, you will need to install [python](https://www.python.org/downloads/) and to do that follow this tutorial
 
-### Installing
+### Installation Instructions
 
-1. Firstly, You will have to create/edit the .env file by adding your token, here's a example of what it will be:
+1. #### Clone the repository
    
    ```bash
    DISCORD_TOKEN=your token
