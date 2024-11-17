@@ -1,4 +1,8 @@
 # Economy-Discord-Bot-Python
+![License](https://img.shields.io/github/license/Smokez01/Economy-Discord-Bot-Python?style=plastic&label=License&color=blue) [![Contributors](https://img.shields.io/github/contributors/Smokez01/Economy-Discord-Bot-Python?style=flat-square&label=Contributors&color=blue)](https://github.com/Smokez01/Economy-Discord-Bot-Python/graphs/contributors) [![Commits (Last Month)](https://img.shields.io/github/commit-activity/m/Smokez01/Economy-Discord-Bot-Python/main?style=flat-square&label=Commits)](https://github.com/Smokez01/Economy-Discord-Bot-Python/commits/main)
+
+
+
 ## Getting Started
 
 This is a project, where you get some basic functionalities for a Economical Discord Bot.
