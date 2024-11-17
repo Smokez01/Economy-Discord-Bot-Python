@@ -37,6 +37,19 @@ Firstly, install all the needed modules, for that, you will need to install [pyt
 
 If you would like to use this bot, personally or commercially, please give me ([Smokez01](https://github.com/Smokez01)) credit.
 
+## Commands
+
+1. ```add-money```
+2. ```remove-money```
+3. ```withdraw```
+4. ```deposit```
+5. ```money```
+6. ```pay```
+7. ```reset-money```
+8. ```role-income```
+9. ```set-income```
+10. ```collect```
+
 ## Built With
 
 [discord.py](https://discordpy.readthedocs.io/en/stable/) - The library used
