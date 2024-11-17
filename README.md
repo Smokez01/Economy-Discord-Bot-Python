@@ -3,14 +3,6 @@
 
 This is a project, where you get some basic functionalities for a Economical Discord Bot.
 
-## Installation
-
-You can install this project by clicking here, or by installing the release, or by running this git command in your command prompt:
-
-```bash
-git clone https://github.com/Smokez01/Economy-Discord-Bot-Python
-```
-
 ### Prerequisites
 
 What things you need to install the software and how to install them:
@@ -22,10 +14,23 @@ Firstly, install all the needed modules, for that, you will need to install [pyt
 1. #### Clone the repository
    
    ```bash
+   git clone https://github.com/Smokez01/Economy-Discord-Bot-Python
+   ```
+   
+2. #### Install Dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. #### Configure Settings
+   - Create a file with the name ```.env```.
+   - Edit the ```.env``` to add your bot token.
+   - 
+   ```bash
    DISCORD_TOKEN=your token
    ```
    
-2. If you want a tutorial on how to make a bot account and the basic's of how to make a discord bot, I recommend following this tutorial
 
 ## Usage
 
