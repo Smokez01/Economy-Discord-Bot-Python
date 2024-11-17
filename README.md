@@ -20,9 +20,11 @@ Firstly, install all the needed modules, for that, you will need to install [pyt
 ### Installing
 
 1. Firstly, You will have to create/edit the .env file by adding your token, here's a example of what it will be:
+   
    ```bash
    DISCORD_TOKEN=your token
    ```
+   
 2. If you want a tutorial on how to make a bot account and the basic's of how to make a discord bot, I recommend following this tutorial
 
 ## Usage
@@ -32,6 +34,7 @@ If you would like to use this bot, personally or commercially, please give me ([
 ## Built With
 
 [discord.py](https://discordpy.readthedocs.io/en/stable/) - The library used
+
 [Python](https://www.python.org/) - The Runtime
 
 ## Contributing
