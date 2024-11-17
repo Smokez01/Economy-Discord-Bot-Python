@@ -9,7 +9,7 @@ What things you need to install the software and how to install them:
 
 Firstly, install all the needed modules, for that, you will need to install [python](https://www.python.org/downloads/) and to do that follow this tutorial
 
-### Installation Instructions
+## Installation Instructions
 
 1. #### Clone the repository
    
