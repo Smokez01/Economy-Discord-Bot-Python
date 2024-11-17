@@ -1,5 +1,5 @@
 # Economy-Discord-Bot-Python
-
+## Getting Started
 This is a project, where you get some basic functionalities for a Economical Discord Bot.
 
 ## Installation
