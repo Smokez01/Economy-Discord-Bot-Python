@@ -3,7 +3,7 @@
 
 This is a project, where you get some basic functionalities for a Economical Discord Bot.
 
-### Prerequisites
+## Prerequisites
 
 What things you need to install the software and how to install them:
 
